@@ -1,0 +1,8 @@
+prefix=/home/starry/Workspaces/picknplace_ws/devel
+
+Name: ur5e_robotiq_description
+Description: Description of ur5e_robotiq_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
